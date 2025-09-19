@@ -2,50 +2,24 @@
 
 Simon's LeetCode solutions repository.
 
-## Languages
-
-As of 7th August, 2023... I started solving:
-
-- Easy questions with **C++**
-- Medium questions with **TypeScript**
-- Hard questions with **Python3**
-
-Sometime in 2025... I realized that I didn't care anymore and just mainly use C++ as it's mooooore fun.
-
 ## Training Path
 
-I am following the "Explore Card Track" and this will be my training path:
-
-### First Layer (C++)
-
-- [x] Arrays 101
-- [x] Linked List
-- [x] Array and Strings
-- [x] Queue & Stack
-- [ ] Hash Table
-
-### Second Layer
-
-- [ ] Heap
-- [ ] Recursion
-- [ ] Binary Search
-
-### Second and Third Layers (TypeScript)
-
-- [ ] Binary Tree
-- [ ] Binary Search Tree
-- [ ] N_ary Tree
-- [ ] Trie
-
-### Third Layers
-
-- [ ] Recursion II
-- [ ] Dynamic Programming
-- [ ] Graph
-
-### Fourth Layers (Python3)
-
-- [ ] Database & SQL
-- [ ] System Design
-- [ ] Machine Learning 101
-- [ ] Decision Tree
+1. [x] Arrays 101
+2. [x] Linked List
+3. [x] Array and Strings
+4. [x] Queue & Stack
+5. [x] Hash Table
+6. [ ] Recursion
+7. [ ] Binary Search
+8. [ ] Binary Tree
+9. [ ] Trie
+10. [ ] N_ary Tree
+11. [ ] Binary Search Tree
+12. [ ] Recursion II
+13. [ ] Heap
+14. [ ] Dynamic Programming
+15. [ ] Graph
+16. [ ] Database & SQL
+17. [ ] System Design
+18. [ ] Machine Learning 101
+19. [ ] Decision Tree
