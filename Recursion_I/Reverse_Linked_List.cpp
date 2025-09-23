@@ -9,7 +9,6 @@ struct ListNode {
 class Solution {
  public:
   ListNode* reverseList(ListNode* head) { return reverse(head); }
-
   ListNode* reverse(ListNode* node) {
     if (!node || !node->next) return node;
 
