@@ -15,7 +15,6 @@ class Solution {
     }
 
     result.push_back(1);
-
     return result;
   }
 };

@@ -7,5 +7,3 @@ Simply, Recursion is an approach to solving problems using a function that calls
 
 1. A simple /base case (or cases)/ — a terminating scenario that does not use recursion to produce an answer.
 2. A set of rules, also known as /recurrence relation/ that reduces all other cases towards the base case.
-   
-* Recurrence Relation
