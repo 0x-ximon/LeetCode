@@ -9,7 +9,7 @@ Simon's LeetCode solutions repository.
 3. [x] Array and Strings
 4. [x] Queue & Stack
 5. [x] Hash Table
-6. [ ] Recursion
+6. [x] Recursion
 7. [ ] Binary Search
 8. [ ] Binary Tree
 9. [ ] Trie
